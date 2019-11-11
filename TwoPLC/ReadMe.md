@@ -81,7 +81,7 @@ top ins = Thread(5), Catodioptric(6), Side(7), Top(8)
   |    |  N7:22 < N7:38    |    |  
   |  Inspection 2 Result  |  *N7:41 > N7:38    |    |  
   |    |  N7:41 < N15:7    |    |  
-  |  top optic restult location  |  *N7:2 > N15:8     |  (1120)  |  
+  |  top optic restult location  |  *N7:2 > N15:8     |  1120  |  
   |    |  N7:2 < N15:4    |    |  
   |  Inspection 5 Result  |  *N7:27 > N15:4    |    |  
   |    |  N7:27 < N7:49    |    |  
