@@ -90,3 +90,6 @@ top ins = Thread(5), Catodioptric(6), Side(7), Top(8)
   |  Inspection 8 Result         |  *N7:57 > N7:50                                              |         |  
   |                              |  N7:57 < N15:2                                               |         |  
   |                              |                                                              |         |  
+  
+  
+  https://github.com/alanshaw/markdown-pdf/issues/117
