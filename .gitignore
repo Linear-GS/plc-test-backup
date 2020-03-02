@@ -1,2 +1,25 @@
 *_BAK*
 *.lnk
+
+# Ignored files
+## Our logs
+**/*.log
+**/LogFile_*
+## VS stuff
+**/*.cache
+**/*.pdb
+**/*.user
+**/*.suo
+
+# Ignored directories
+## VS stuff
+**/.vs/*
+## Our logs
+**/logs/*
+## Resharper extension
+**/_ReSharper.Caches/*
+## Compile output
+**/bin/*
+**/obj/*
+**/packages/*
+**/.vs/*
